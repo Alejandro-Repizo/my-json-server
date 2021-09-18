@@ -1,0 +1,22 @@
+{
+  "name": "my-personal-json-server",
+  "version": "1.0.0",
+  "description": "Json server to featch product information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alejandro-Repizo/my-json-server.git"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Alejandro-Repizo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alejandro-Repizo/my-json-server/issues"
+  },
+  "homepage": "https://github.com/Alejandro-Repizo/my-json-server#readme"
+}
