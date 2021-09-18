@@ -1,5 +1,5 @@
 
-## my-json-server
+## My-json-server
 
 Json server to fetch product information 🗄🚀
 
